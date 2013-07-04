@@ -1,0 +1,11 @@
+{
+  "name": "cipherhelper",
+  "version": "0.0.1",
+  "description": "A quick and dirty way to create string ciphers based on integer IDs and the accompanying decipher function",
+  "keywords": ["cipher", "decipher"],
+  "author": "Tarun Chaudhry <tarunc92@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/tarunc/CipherHelper.git" },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index"
+}
